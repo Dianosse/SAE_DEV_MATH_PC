@@ -4,5 +4,5 @@ SAE de dev et math de la période D
 Groupe :
 LIEVRE Antoine 
 MACABREY Luc
-Félix
-Lucas
+WANG Félix 
+NURMINEN Lucas
